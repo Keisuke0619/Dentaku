@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33015.44
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dentaku", "Dentaku\Dentaku.csproj", "{1433ECDE-F93A-4867-9281-08F99E0E6337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1433ECDE-F93A-4867-9281-08F99E0E6337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1433ECDE-F93A-4867-9281-08F99E0E6337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1433ECDE-F93A-4867-9281-08F99E0E6337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1433ECDE-F93A-4867-9281-08F99E0E6337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C576DD77-8AE4-464D-8617-5B6505882874}
+	EndGlobalSection
+EndGlobal
